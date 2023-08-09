@@ -1,0 +1,12 @@
+#img-container img {
+  max-width: 100% !important;
+}
+
+#img-container span {
+  font-size: 1.1em;
+}
+
+#img-container figure {
+  margin: auto;
+  text-align: center;
+}
